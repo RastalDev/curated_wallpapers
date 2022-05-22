@@ -2,13 +2,7 @@
 
 This repository contains a curated selection of wallpapers to use as desktop backgrounds.
 
-These wallpapers are suitable for different colour themes including but not limited to:
-
-    * Arc
-    * Dracula
-    * Gruvbox
-    * Nord
-    * Solarized
+These wallpapers are suitable for different colour themes including but not limited to: Arc, Dracula, Gruvbox, Nord and Solarized
 
 ![wallpapers_image](https://github.com/RastalDev/curated_wallpapers/blob/master/image.png)
 
