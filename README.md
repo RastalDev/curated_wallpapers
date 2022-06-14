@@ -1,6 +1,6 @@
 # Curated Wallpapers
 
-This repository contains a curated selection of wallpapers to use as desktop backgrounds.
+This repository contains a curated selection of wallpapers I use as desktop backgrounds.
 
 These wallpapers are suitable for different colour themes including but not limited to: Arc, Dracula, Gruvbox, Nord and Solarized
 
