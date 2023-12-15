@@ -6,6 +6,13 @@ These wallpapers are suitable for different colour themes including but not limi
 
 ![wallpapers_image](https://github.com/RastalDev/curated_wallpapers/blob/master/image.png)
 
+
+## This repository is maintained by:
+
+| [![RastalDev](https://github.com/rastaldev.png?size=100)](https://github.com/rastaldev) |
+| --------------------------------------------------------------------------------------- |
+| [RastalDev](https://github.com/rastaldev)                                               |
+
 ## Disclaimer
 
 These wallpapers were collected from various online sites, so it is possible some may be legitimately copyrighted. If you see an image that belongs to you and of limited use, let me know and I will remove it.
